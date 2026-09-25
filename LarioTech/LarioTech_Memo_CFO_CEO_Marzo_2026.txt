@@ -1,0 +1,36 @@
+================================================================================
+MEMORANDUM INTERNO CONFIDENZIALE
+================================================================================
+A:        Ing. Roberto Riva (Amministratore Delegato e CEO)
+DA:       Dott. Marco Valli (Chief Financial Officer)
+DATA:     18 Marzo 2026
+OGGETTO:  ALERT RISCHIO LIQUIDITA' Q1 2026 E CAPITALIZZAZIONE COSTI R&D
+================================================================================
+
+Caro Roberto,
+
+Ti scrivo con la massima urgenza e riservatezza per evidenziare una situazione di grave tensione finanziaria che si sta delineando al termine del primo trimestre 2026.
+
+1. ANDAMENTO CASSA E DIPENDENZA DAI FIDI BANCARI
+Alla data del 15 marzo 2026, la cassa disponibile presso i nostri istituti di credito è scesa al di sotto dei 250.000 Euro. Contestualmente, le linee di credito a breve termine approvate dal CdA a gennaio sono già state utilizzate per 4,1 milioni di Euro su un totale accordato di 5,0 milioni.
+L'incremento dei ricavi registrato nel Q1 (+20%) è purtroppo virtuale sotto il profilo finanziario, poiché il 75% dei contratti siglati prevendono pagamenti a 120 e 180 giorni.
+
+2. RITARDI INCASSI DISTRIBUTORI CRITICI
+Il nostro principale distributore italiano, EuroAutomation Distribution S.r.l., non ha saldato le fatture scadute a febbraio per un importo complessivo di 1,1 milioni di Euro. Il loro Direttore Amministrativo mi ha confermato informale difficoltà di smaltimento del loro magazzino. Se non incassiamo almeno 800.000 Euro entro fine mese, non saremo in grado di far fronte al pagamento degli stipendi di aprile e delle ritenute fiscali.
+
+3. CAPITALIZZAZIONE COSTI R&S E IMPATTO SU EBITDA
+Nell'elaborazione della bozza di chiusura del Q1 2026, abbiamo capitalizzato ulteriori 650.000 Euro di spese del personale e consulenze sotto la voce "Immobilizzazioni Immateriali - Progetto NextGen Automation".
+Desidero ribadire, come già fatto a verbale, che oltre il 40% di tali costi si riferisce in realtà a manutenzione ordinaria del software esistente e a costi di assistenza clienti. Se la società di revisione dovisse contestare tale classificazione, l'EBITDA del trimestre passerebbe da +820.000 Euro ad appena +170.000 Euro, mettendo a rischio il rispetto dei covenant bancari previsti per il finanziamento a medio termine con Banca Popolare.
+
+4. AZIONI CORRETTIVE URRENTI PROPONENZE:
+- Bloccare immediatamente le spedizioni verso EuroAutomation fino al rientro di almeno il 50% dell'esposizione scaduta;
+- Rinegoziare con i fornitori strategici di componenti elettronici l'estensione dei termini di pagamento da 60 a 120 giorni;
+- Valutare la cessione pro-soluto di un pacchetto di crediti commerciali per generare liquidità immediata, pur accettando un saggio di sconto oneroso.
+
+Resto a disposizione per un incontro urgente prima del CdA di approvazione della trimestrale.
+
+Cordiali saluti,
+
+Dott. Marco Valli
+CFO - LarioTech Industriale S.p.A.
+================================================================================

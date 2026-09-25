@@ -1,0 +1,172 @@
+================================================================================
+MERIDIANA INDUSTRIAL SOLUTIONS S.p.A.
+Email aziendale - Corrispondenza interna
+Codice documento: MIS-CORR-D3-2025-01-22
+Fascicolo: MIS-CORR-2024-2025
+================================================================================
+
+From: Andrea Fontana <a.fontana@meridianaindustrial.it>
+To: Elena Marchetti <e.marchetti@meridianaindustrial.it>,
+    Laura Ferrante <l.ferrante@meridianaindustrial.it>
+Date: Wed, 22 Jan 2025 11:30:42 +0100
+Subject: RISERVATO - Stato linee di credito e analisi covenant - Allerta liquidità
+Importance: High
+X-Priority: 1 (Highest)
+X-Confidential: TRUE
+Attachments:
+    - Dettaglio_Linee_22012025.xlsx (178 KB)
+    - Forecast_Cashflow_12W.xlsx (234 KB)
+    - Covenant_Analysis_31122024.xlsx (289 KB)
+    - Contratto_Factoring_Credit_Agricole_03042024.pdf (4,2 MB)
+
+--------------------------------------------------------------------------------
+
+Gentili Dott.ssa Marchetti e Ing. Ferrante,
+
+con la presente Vi aggiorno sulla situazione di tesoreria alla data odierna 
+(22/01/2025) e segnalo alcune criticità che richiedono interventi urgenti.
+
+
+=== 1. STATO LINEE DI CREDITO AL 22/01/2025 ===
+
+Banca              Linea                    Plafond      Utilizzato   Residuo     % util.
+---------------    ----------------------   ----------   ----------   ----------  -------
+UniCredit          Apertura c/c              6.000.000    5.900.000      100.000   98,3% ***
+Intesa Sanpaolo    Apertura c/c              5.000.000    4.350.000      650.000   87,0%
+BPER               Apertura c/c              4.000.000    2.600.000    1.400.000   65,0%
+Crédit Agricole    Factoring pro-soluto      8.000.000    5.400.000    2.600.000   67,5%
+---------------    ----------------------   ----------   ----------   ----------  -------
+TOTALE LINEE BT                            15.000.000   12.850.000    2.150.000   85,7% ***
+
+*** UniCredit al 98,3%: la linea è "a vista" e la banca potrebbe richiedere
+    rientri parziali in qualsiasi momento. Ho avuto colloquio informale con
+    il relationship manager (Dott. Rinaldi) che mi ha segnalato che la banca
+    è "preoccupata" dall'andamento della posizione e vuole un incontro 
+    formale entro febbraio.
+
+*** Factoring: il contratto con Crédit Agricole ha una CLAUSOLA DI RECOURSE
+    per clienti "alto rischio" in Allegato C. PetrolTech è in quella lista,
+    quindi non possiamo cedere quel credito. Abbiamo esaurito i clienti
+    "investment grade" cedibili. Per incrementare il factoring dobbiamo
+    convincere la banca a rimuovere clienti dall'Allegato C o aggiungerne
+    di nuovi alla lista dei cedibili.
+
+Disponibilità liquide al 22/01: EUR 3.680.000 (in calo da EUR 4.820.000
+del 31/12/2024). Flusso di gennaio negativo di EUR 1,1M.
+
+
+=== 2. ANALISI COVENANT AL 31/12/2024 (valori consolidati) ===
+
+Covenant                      Valore attuale    Limite contr.    Headroom    Rischio
+----------------------------  ----------------  ---------------  ----------  ----------
+PFN / EBITDA                  1,90x             <= 3,50x         45,7%       BASSO
+Debito / Equity               1,42x             <= 2,00x         29,0%       BASSO
+EBITDA / Oneri finanziari     2,54x             >= 2,00x         27,0%       ALTO ***
+Current Ratio                 1,20x             >= 1,00x         20,0%       MEDIO
+
+FOCUS su covenant EBITDA / Oneri finanziari: è il più critico. Siamo a 2,54x,
+con un margine di soli 0,54x (27%).
+
+Proiezione sensibilità:
+  - Se EBITDA Q1 2025 si riduce del 10% (scenario realistico vista la
+    sospensione GulfStream e i ritardi AquaNova)
+  - E gli oneri finanziari aumentano di EUR 200K per tassi variabili
+  ==> il covenant scende a circa 2,08x, praticamente SUL LIMITE
+
+In caso di ulteriore deterioramento, saremmo in DEFAULT TECNICO.
+
+NOTA IMPORTANTE: le banche pool hanno facoltà di richiedere il rientro
+immediato di TUTTE le linee in caso di violazione di uno qualsiasi dei
+covenant, anche se la violazione è su un altro istituto (clausola di
+CROSS-DEFAULT).
+
+
+=== 3. PROIEZIONI CASSA SCENARIO BASE (12 settimane) ===
+
+Settimana          Entrate        Uscite         Flusso         Cassa cum.
+-----------------  -------------  -------------  -------------  -------------
+27 gen - 02 feb     3.400.000      4.000.000       -600.000      4.220.000
+03 feb - 09 feb     3.200.000      4.100.000       -900.000      3.320.000
+10 feb - 16 feb     2.800.000      3.900.000      -1.100.000     2.220.000
+17 feb - 23 feb     3.500.000      4.200.000       -700.000      1.520.000
+24 feb - 02 mar     3.100.000      4.000.000       -900.000        620.000
+03 mar - 09 mar *** 2.900.000      3.800.000       -900.000       -280.000 ***
+10 mar - 16 mar     2.700.000      3.700.000      -1.000.000    -1.280.000
+17 mar - 23 mar     3.000.000      3.800.000       -800.000     -2.080.000
+
+*** ALLERTA: senza interventi, la cassa diventa negativa nella settimana
+    03-09 marzo 2025. Questo coincide con il periodo di approvazione del
+    bilancio (CdA 14/03). Se la notizia trapela alle banche, potrebbe far
+    precipitare la situazione.
+
+
+=== 4. AZIONI URGENTI PROPOSTE ===
+
+1. ESTENSIONE LINEE BT
+   Avviare negoziazione formale con UniCredit, Intesa, BPER per aumento
+   plafond di EUR 3M. Propongo di offrire come garanzia aggiuntiva pegno
+   su crediti verso:
+     - Eni Procurement S.p.A. (EUR 2,15M, investment grade)
+     - PetroVen S.A. (EUR 2,84M, rating BB)
+
+2. INCREMENTO FACTORING
+   Negoziare con Crédit Agricole l'ampliamento della lista clienti cedibili.
+   Proporre l'inclusione di AquaNova S.c.a.r.l. (rating BBB-) con 
+   commitment del 75% del credito.
+
+3. FINANZIAMENTO SOCI
+   Chiedere a Meridiana Holdings un ulteriore finanziamento di EUR 2M come
+   "ponte" fino all'estensione delle linee. Il precedente finanziamento
+   (EUR 3,5M) scade nel 2027 e non crea problemi di covenant.
+
+4. RALLENTAMENTO CAPEX
+   Posticipare l'ordine Geico Taikisha (EUR 2,1M, impianto verniciatura)
+   di 6 mesi. Verificare penali contrattuali: ricordo che abbiamo versato
+   acconto di EUR 420.000 nel 2024.
+
+5. ACCELERAZIONE INCASSI
+   Contattare AquaNova per richiedere pagamento anticipato parziale del
+   SAL n. 2 (già approvato, EUR 5.040.000 fatturati ma non ancora
+   incassati integralmente).
+
+
+=== 5. STRESS TEST SCENARI ALTERNATIVI ===
+
+Scenario                                          Impatto cassa    Mese breach
+----------------------------------------------    -------------    -------------
+BASE: incassi regolari, GulfStream riprende Q2     -436K Q4-25    Maggio 2025
+STRESS 1: ritardo incassi AquaNova 90 gg           -2,84M         Febbraio 2025
+STRESS 2: GulfStream non riprende + PetrolTech 0%  -5,12M         Febbraio 2025
+STRESS 3: Stress 2 + linee ridotte del 20%         -7,84M         Febbraio 2025
+
+
+=== 6. NOTA RISERVATA (CONFIDENZIALE) ===
+
+------------------------------------------------------------------------
+Elena, Laura, vi scrivo in massima trasparenza.
+
+La situazione di liquidità è PIU' GRAVE di quanto rappresentato nel Risk 
+Report di gennaio. Nel Risk Report ho "ammorbidito" alcuni toni perché 
+sapevo che sarebbe stato letto anche dal CdA e dalla Presidenza, ma la
+realtà è che siamo a 8-10 settimane dalla cassa negativa e non abbiamo
+un piano B se le banche ci chiudono le linee.
+
+Ho anche il dubbio che la PFN comunicata al mercato (EUR 18,7M) sia
+TROPPA OTTIMISTICA. Tecnicamente dovremmo comunicare una PFN "lorda" di
+circa EUR 30,7M includendo:
+  - Finanziamento soci (EUR 3,5M)
+  - Debiti verso la collegata MPC (EUR 1,84M)
+
+che di fatto sono debiti finanziari. Il bilancio li classifica come
+"commerciali" perché MPC è una collegata, ma la natura è FINANZIARIA.
+
+Se un analista o una banca se ne accorge, il covenant PFN/EBITDA salta.
+
+Ricalcolo covenant con PFN lorda:
+  PFN lorda / EBITDA = EUR 30,7M / EUR 9,87M = 3,11x
+  (vs 1,90x dichiarato, limite 3,50x, headroom residuo solo 11,1%)
+
+Vi chiedo di convocare un CdA STRAORDINARIO entro febbraio per affrontare
+la questione in modo strutturato. Non possiamo andare avanti di settimana
+in settimana.
+

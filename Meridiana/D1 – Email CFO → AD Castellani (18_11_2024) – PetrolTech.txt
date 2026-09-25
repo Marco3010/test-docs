@@ -1,0 +1,136 @@
+================================================================================
+MERIDIANA INDUSTRIAL SOLUTIONS S.p.A.
+Email aziendale - Corrispondenza interna
+Codice documento: MIS-CORR-D1-2024-11-18
+Fascicolo: MIS-CORR-2024-2025
+================================================================================
+
+From: Elena Marchetti <e.marchetti@meridianaindustrial.it>
+To: Roberto Castellani <r.castellani@meridianaindustrial.it>
+Cc: Andrea Fontana <a.fontana@meridianaindustrial.it>
+Date: Mon, 18 Nov 2024 16:42:17 +0100
+Subject: URGENTE: PetrolTech Industries Ltd. - aggiornamento procedura DIFC e proposta svalutazione
+Importance: High
+X-Priority: 1 (Highest)
+Attachments:
+    - Parere_StudioBianchiRossi_20122024.pdf (425 KB)
+    - Analisi_Credito_PetrolTech_v3.xlsx (189 KB)
+    - Polizza_SACE_8847-2023_CondizioniGenerali.pdf (2,1 MB)
+
+--------------------------------------------------------------------------------
+
+Ciao Roberto,
+
+ti scrivo con urgenza perché oggi pomeriggio ho ricevuto una call da Andrea 
+Bianchi (Studio Bianchi-Rossi, il nostro legale di riferimento per il DIFC 
+Courts a Dubai) che mi ha informato di sviluppi importanti sulla posizione 
+PetrolTech Industries Ltd.
+
+In sintesi: PetrolTech ha formalmente depositato in data odierna (14/11/2024) 
+l'istanza di concordato preventivo presso il DIFC Courts. La procedura è stata 
+accettata dal Tribunale e verrà nominato un commissario nei prossimi giorni. 
+Bianchi mi ha confermato che siamo iscritti al passivo per l'importo lordo di 
+EUR 3.900.000 (fatture insolute relative all'ordine PT-2023-156, scadute da 
+oltre 180 giorni).
+
+
+=== STIMA DI RECUPERO ===
+
+Bianchi mi ha dato una stima preliminare di recupero per i creditori 
+chirografari (noi rientriamo in questa categoria, non avendo garanzie reali):
+
+  - Scenario OTTIMISTICO: 60% dell'esposizione, tempi 24-30 mesi
+  - Scenario BASE:        45-50%, tempi 30-36 mesi
+  - Scenario PESSIMISTICO: 30-35%, tempi oltre 36 mesi 
+                          (se il piano non viene approvato dai creditori)
+
+Mi ha consigliato di non attenderci cifre superiori al 60% anche nello scenario 
+migliore, perché il passivo è molto elevato (oltre USD 180M) e gli asset della 
+società sono per buona parte in giurisdizioni difficili (Iraq, Libia).
+
+
+=== COPERTURA ASSICURATIVA SACE ===
+
+Ho verificato con l'ufficio crediti: purtroppo la polizza SACE n. 8847/2023 
+NON è attivabile. 
+
+L'art. 12.3 delle condizioni prevede la DECADENZA PER DENUNCIA TARDIVA: la 
+denuncia andava fatta entro 90 giorni dalla prima scadenza insoluta.
+
+  Prima scadenza insoluta: 15/04/2024
+  Termine denuncia (90 gg): 14/07/2024
+  Nostra denuncia effettiva: 12/11/2024  <-- OLTRE 6 MESI DOPO IL TERMINE
+
+E' un errore di gestione che paghiamo caro: EUR 3,9M non coperti.
+
+Non ci sono nemmeno garanzie personali o fideiussioni a supporto: l'ordine era 
+stato approvato nel 2023 con deroga al limite di fido interno, su pressione 
+commerciale (PetrolTech era un cliente strategico per l'area UAE). Me lo 
+ricordo bene, ne avevamo parlato nel CdA di marzo 2023.
+
+
+=== PROPOSTA DI SVALUTAZIONE ===
+
+Per il bilancio al 31/12/2024, ti propongo di svalutare il credito del 60% 
+(EUR 2.340.000), portandolo a valore netto di EUR 1.560.000. 
+
+E' una scelta INTERMEDIA tra lo scenario base e quello ottimistico.
+
+------------------------------------------------------------------------
+[NOTA PERSONALE] 
+
+Roberto, ti dico la mia in confidenza. Io sarei più prudente e svaluterei 
+il 75-80%, perché:
+
+  - Le procedure DIFC sono lunghe e costose, e i legali UAE hanno parcelle 
+    che erodono il recupero;
+  - Gli asset di PetrolTech in Iraq/Libia sono di difficile realizzo;
+  - Il cliente non ha dato segnali di reazione nei mesi precedenti.
+
+Tuttavia, una svalutazione del 75-80% ridurrebbe l'utile dell'esercizio di 
+circa EUR 600-800K e ci porterebbe sotto i EUR 2M di utile netto. 
+
+Considerando che dobbiamo approvare il bilancio a marzo e che il Presidente 
+e Meridiana Holdings vogliono un utile "decente", ti propongo il 60% come 
+compromesso. Ne possiamo parlare di persona prima del CdA di dicembre.
+------------------------------------------------------------------------
+
+
+=== AZIONI PROPOSTE ===
+
+1. Accantonamento a fondo svalutazione crediti: EUR 2.340.000
+2. Presentazione domanda di insinuazione al passivo entro 10/01/2025
+3. Monitoraggio mensile della procedura con Bianchi
+4. Revisione policy crediti per evitare in futuro deroghe senza garanzie
+
+
+Fammi sapere quando possiamo vederci, preferibilmente questa settimana. 
+Vorrei sentire anche Giancarlo (Meridiana) prima di portare la proposta al CdA.
+
+A presto,
+Elena
+
+-- 
+Dott.ssa Elena Marchetti
+Chief Financial Officer & Dirigente Preposto
+Meridiana Industrial Solutions S.p.A.
+Via dell'Industria 47, 20037 Paderno Dugnano (MI)
+Tel. +39 02 8472 3305 | Mobile: +39 335 7654321
+e.marchetti@meridianaindustrial.it
+
+================================================================================
+[NOTA MANOSCRITTA A MARGINE DELLA STAMPA - calligrafia R. Castellani]
+
+"Elena - ok sul 60%. Ma prepara anche una versione al 75% da far vedere a 
+Giancarlo, voglio sentire cosa dice. Se insiste per non svalutare oltre il 
+60%, gli facciamo firmare un parere scritto. Non voglio assumermi io la 
+responsabilità. R.C. 19/11"
+
+================================================================================
+
+METADATA DOCUMENTO:
+- Codice: MIS-CORR-D1-2024-11-18
+- Classificazione: RISERVATO
+- Archivio: SharePoint - Area AFC - Fascicolo Correspondence 2024
+- Destinatari originali: R. Castellani (AD), A. Fontana (Head of Risk) in cc
+- Trasmissione a consulenti: Autorizzata con delibera CdA del 10/03/2025
